@@ -80,3 +80,4 @@ else{
     print $path[$i], ' ';
   }
 }
+print "hi git";
